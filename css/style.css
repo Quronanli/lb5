@@ -1,0 +1,69 @@
+.salad {
+    margin-top: 50px;
+    height: 680px;
+    width: 680px; 
+    border-radius: 20px;
+    background-image: url(../img/salad.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.text-position {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    line-height: 680px;
+
+}
+#t1 {
+    margin: 50px 0px 30px 50px;
+    
+}
+#t2 {
+    margin: 0px 0px 50px 50px;
+    font-size: 19px;
+    font-weight: 600;
+}
+.itd_circle {
+    margin: 0 auto 15px;
+    width: 70px;
+    height: 70px;
+    border: 3px solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.line {
+    width: 100px;
+    height: 3px;
+    margin: 15px auto 30px;
+    background-color: black;
+}
+.block_rew {
+    background-color: rgba(241, 241, 240, 0.959);
+    width: 100%;
+    
+}
+.rew_name {
+    margin: 16px;
+}
+.t4 {
+    margin: 16px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.own_text {
+    width: 97.5%;
+    height: 300px;
+    margin: 16px;
+    background-color: white;
+    border-radius: 20px;
+}
+.btn {
+    margin: 16px;
+    font-size: 16px; 
+    background-color: white;
+    border: none; 
+    border-radius: 5px;
+    cursor: pointer; 
+    font-weight: 600;
+}
